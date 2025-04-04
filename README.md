@@ -1,3 +1,9 @@
+SAMPLE DESCRIPTION :-
+******************
+
+=>> This project changes the color of background of screen Based on clicking on button that changes the color in randomly way by using use state hook .
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
